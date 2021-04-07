@@ -1,1 +1,2 @@
-# JavaExercices
+# javaExercicios
+Exercícios de Java - Eclipse
