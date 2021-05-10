@@ -28,7 +28,7 @@ public class Vetores24 {
 		System.out.println("Deseja realizar ajustes");
 		d=sc.next().charAt(0);
 		System.out.println();
-		while(d=='n') {
+		while(d=='s') {
 			for (int i = 0; i < vetN.length; i++) {
 				System.out.println(i+": "+vetS[i] + " :  " + vetN[i]);
 			}	
@@ -51,7 +51,7 @@ public class Vetores24 {
 			if(vetN[i]>0) {
 				number = i;
 			}
-			if(vetN[i]<3.99) {
+			if(vetN[i]<number) {
 				number2 =i;
 			}
 			
@@ -59,14 +59,10 @@ public class Vetores24 {
 		
 		for (int i = 0; i < vet.length; i++) {
 			if(number==i) {
-				vetS[i] = sc.next();
-				vetN[i] = sc.nextFloat();
-				System.out.println("O aluno mais alto" + vetS[i]+"com altura de "+vetN[i]);
+			System.out.println("O aluno mais alto " + vetS[i]+" com altura de "+vetN[i]);
 			}
 			if(number2==i) {
-				vetS[i] = sc.next();
-				vetN[i] = sc.nextFloat();
-				System.out.println("O aluno mais baixo" + vetS[i]+"com altura de "+vetN[i]);
+				System.out.println("O aluno mais baixo " + vetS[i]+" com altura de "+vetN[i]);
 			}
 		}	
 		

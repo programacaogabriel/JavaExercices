@@ -1,0 +1,14 @@
+criar Método que não retorna nada, mas calcula e apresenta ao usuário o resultado da média.
+Criar Método que  retorna o resultado conforme o tipo do método.
+
+
+Cálculo da Média Aritmética: 
+
+
+(Nota1  + Nota2) / 2;
+
+
+Cálculo da Média Ponderada:
+
+
+(Nota1 * Peso1) + (Nota2 * Peso2) / Peso1 + Peso2;
