@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Aulas Java Jcavi/Aula01/exerciciosjava/src"/>
+	<classpathentry kind="src" path="Aulas Java Jcavi/Aula01/exerciciosjavaoo/src"/>
+	<classpathentry kind="src" path="Aulas Java Jcavi/Aula01/javasabado/src"/>
+	<classpathentry kind="src" path="Aulas Java Jcavi/Aula02/exerciciosdia24/src"/>
+	<classpathentry kind="src" path="Aulas Java Jcavi/Aula03/exerciciosdia1_05/src"/>
+	<classpathentry kind="src" path="Aulas Java Jcavi/Aula04/exercicio15_05/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/entradaDeDados/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Estáticos/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/exemplos/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio1/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio10Switch/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio11Array/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio12Lista"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio12Listas/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio13Matriz/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio1For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio1OO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio2/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio2For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio2IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio2OO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio2While/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio3/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio3For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio3IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio3OO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio3While/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio4/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio4For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio4IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio4OO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio5.1OO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio5/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio5For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio5Ifelse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio5OO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio6/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio6For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio6IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio7For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio7IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio8IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicio9Switch/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/ExercicioEnumeracaoComposicao/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Exercicios1IfElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/ExercicioWhile/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/For/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Funções/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/funcoesMatematicasSemObjetos/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/FunçõesOO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/FuncoesTriangleComOO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/FuncoesTriangleSemOO/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/ifElse/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/LacoForEach/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Listas/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Matriz/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/OperadoresBitwise/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Strings/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/Teste/src"/>
+	<classpathentry kind="src" path="Eclipse/WorkProject/While/src"/>
+	<classpathentry kind="src" path="Lista/src"/>
+	<classpathentry kind="src" path="Vetores e Matrizes/src"/>
+	<classpathentry kind="output" path="Aulas Java Jcavi/Aula01/exerciciosjava/bin"/>
+</classpath>
